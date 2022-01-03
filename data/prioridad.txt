@@ -1,0 +1,4 @@
+prioridad
+Baja
+Media
+Alta
